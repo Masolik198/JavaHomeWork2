@@ -10,7 +10,7 @@ import org.w3c.dom.ls.LSOutput;
 
 public class lesson2 {
     public static void main(String[] args) {
-        String stroka = "geekbrains";
+        String stro = "geekbrains";
         String symbol = "geekbrains";
         System.out.println((stroka.contains(symbol)));
         StringBuilder name = new StringBuilder("geekbrains");
